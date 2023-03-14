@@ -1,5 +1,7 @@
 # Assignment_1_2022_2
 
+Command line application.
+
 Matrix containing entries(numbers) on its diagonals.
 Using basic object-oriented programming concepts and testing knowledge.
 
@@ -11,6 +13,6 @@ Using basic object-oriented programming concepts and testing knowledge.
   
 2nd way:
 
-      1) open the command line app
+      1) open the command-line interpreter
       2) move to the projects folder
       3) write .\app.exe / .\appTest.exe
