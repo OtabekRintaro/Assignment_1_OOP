@@ -1,5 +1,16 @@
 # Assignment_1_2022_2
-. University project .
 
-Task:
-Implement the X matrix type which contains integers. These are square matrices that can contain nonzero entries only in their two diagonals. Don't store the zero entries. Store only the entries that can be nonzero in a sequence. Implement as methods: getting the entry located at index (i, j), adding and multiplying two matrices, and printing the matrix (in a square shape).
+Matrix containing entries(numbers) on its diagonals.
+Using basic object-oriented programming concepts and testing knowledge.
+
+### How to run:
+
+1st way:
+
+      double-click on the app.exe\appTest.exe
+  
+2nd way:
+
+      1) open the command line app
+      2) move to the projects folder
+      3) write .\app.exe / .\appTest.exe
